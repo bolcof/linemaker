@@ -1,0 +1,16 @@
+﻿  ofApp.cpp
+E:\of_v0.9.8_vs_release\libs\openFrameworks\utils\ofLog.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+E:\of_v0.9.8_vs_release\libs\openFrameworks\types\ofTypes.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+e:\of_v0.9.8_vs_release\libs\openframeworks\types\ofColor.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+e:\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+e:\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+e:\of_v0.9.8_vs_release\libs\openframeworks\types\ofColor.h(778): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+E:\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofMesh.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+E:\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofPolyline.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+E:\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofPath.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+E:\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofCamera.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+E:\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofEasyCam.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  linemaker.vcxproj -> E:\of_v0.9.8_vs_release\apps\myApps\linemaker\bin\linemaker_debug.exe
+  linemaker.vcxproj -> bin\linemaker_debug.pdb (Full PDB)
+  
+  	                   9	E:\of_v0.9.8_vs_release\export\vs\Win32\

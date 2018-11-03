@@ -3,4 +3,7 @@
   - of0.9.8
   - windows
   
-# next
+# Digicon_Pitagora
+ドラッグアンドドロップ
+  - of0.9.8
+  - windows

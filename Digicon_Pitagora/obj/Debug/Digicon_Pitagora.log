@@ -1,0 +1,16 @@
+﻿  ofApp.cpp
+  Unknown compiler version - please run the configure tests and report the results
+E:\of_v0.9.8_vs_release\libs\openFrameworks\utils\ofLog.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+E:\of_v0.9.8_vs_release\libs\openFrameworks\types\ofTypes.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+e:\of_v0.9.8_vs_release\libs\openframeworks\types\ofColor.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+e:\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+e:\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+e:\of_v0.9.8_vs_release\libs\openframeworks\types\ofColor.h(778): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+E:\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofMesh.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+E:\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofPolyline.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+E:\of_v0.9.8_vs_release\libs\openFrameworks\graphics\ofPath.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+E:\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofCamera.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+E:\of_v0.9.8_vs_release\libs\openFrameworks\3d\ofEasyCam.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Digicon_Pitagora.vcxproj -> E:\of_v0.9.8_vs_release\apps\myApps\Digicon_Pitagora\bin\Digicon_Pitagora_debug.exe
+  
+  	                   9	E:\of_v0.9.8_vs_release\export\vs\Win32\

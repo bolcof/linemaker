@@ -3,6 +3,9 @@
   - of0.9.8
   - windows
   
+# LP_ sender/reciever
+  - 同期再生+コーナーピン+別ファイル読み込み
+
 # Digicon_Pitagora
 ドラッグアンドドロップ
   - of0.9.8

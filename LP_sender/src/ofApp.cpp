@@ -218,7 +218,7 @@ void ofApp::mouseDragged(int x, int y, int button){
         else {
             cout << "error" << endl;
         }
-        dMessage(video.getPosition(), video.isPaused());
+        sendMessage(video.getPosition(), video.isPaused());
     }
     
     if (is_setting) {
